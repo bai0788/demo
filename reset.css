@@ -1,0 +1,22 @@
+/*
+* @Author: 123
+* @Date:   2020-05-27 19:53:09
+* @Last Modified by:   123
+* @Last Modified time: 2020-05-27 21:09:14
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+.clear:after{
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+}
